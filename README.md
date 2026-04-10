@@ -9,6 +9,10 @@ O dashboard é protegido por autenticação em nível de aplicação.
 - **URL**: `http://epmty.com`
 - **Chave de Acesso**: `empty`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coddrake/mentorship-sec/refs/heads/main/screenshot-dash.png" width="400" alt="Dashboard Preview">
+</p>
+
 > [!IMPORTANT]
 > Trate este dashboard como um ativo de inteligência. As métricas e o progresso aqui contidos são reflexos diretos da sua evolução técnica.
 
